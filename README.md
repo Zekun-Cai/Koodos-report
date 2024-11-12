@@ -6,6 +6,7 @@
 为此，本文提出了连续时域泛化（Continuous Temporal Domain Generalization，CTDG）任务，并设计了一个基于模型动力学的时域泛化框架Koodos，使得模型在连续时间中与数据分布的变化始终保持协调一致。Koodos通过库普曼算子（Koopman Operator）将模型的复杂非线性动态转化为可学习的连续动力系统（Continuous Dynamical System），同时利用先验知识以确保泛化过程的稳定性和可控性。实验表明，Koodos显著超越现有方法，为时域泛化开辟了全新的研究方向。
 
 ## 作者
+![](paper_title.png)
 论文链接：https://arxiv.org/pdf/2405.16075  
 代码：https://github.com/Zekun-Cai/Koodos/  
 我们在代码库中提供了详细的逐步教程，涵盖Koodos的实现和可视化演示。十分钟即可快速掌握，力荐尝试！
