@@ -16,7 +16,7 @@
 论文链接：https://arxiv.org/pdf/2405.16075  
 开源代码：https://github.com/Zekun-Cai/Koodos/  
 OpenReview: https://openreview.net/forum?id=G24fOpC3JE  
-**我们在代码库中提供了详细的[逐步教程](https://github.com/Zekun-Cai/Koodos/blob/main/Tutorial_for_Koodos.ipynb)，涵盖了Koodos的实现、核心概念的解读以及可视化演示。整个教程流程紧凑，十分钟即可快使掌握Koodos使用方法，力荐尝试！**
+**我们在代码库中提供了详细的[逐步教程](https://github.com/Zekun-Cai/Koodos/blob/main/Tutorial_for_Koodos.ipynb)，涵盖了Koodos的实现、核心概念的解读以及可视化演示。整个教程流程紧凑，十分钟即可快使掌握Koodos的使用方法，力荐尝试！**
 
 ## 情景导入
 
