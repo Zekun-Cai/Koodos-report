@@ -15,6 +15,7 @@
 ![作者信息](paper_title.png)  
 论文链接：https://arxiv.org/pdf/2405.16075  
 开源代码：https://github.com/Zekun-Cai/Koodos/  
+OpenReview: https://openreview.net/forum?id=G24fOpC3JE  
 **我们在代码库中提供了详细的逐步教程，涵盖Koodos的实现和可视化演示。十分钟即可快速运行，力荐尝试!**
 
 ## 情景导入
